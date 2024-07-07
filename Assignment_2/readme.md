@@ -72,7 +72,3 @@ Experiments and results using a small learning rate.
 
 ### Change Epoch
 Experiments and results when changing the number of epochs during training.
-
----
-
-Ensure that you follow the instructions in each section to complete the assignment successfully.
