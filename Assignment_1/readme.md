@@ -1,7 +1,5 @@
 # Neural Network Assignment 1 - Spring 2024
 
-### Mohammad Hossein Najafi - 97103938
-
 ## Table of Contents
 1. Prerequisites
 2. Binary encoding
